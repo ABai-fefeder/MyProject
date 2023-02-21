@@ -1,0 +1,126 @@
+D:\網頁\資策會\作業_訂單系統\作業_訂單系統\bin\Debug\作業_訂單系統.exe.config
+D:\網頁\資策會\作業_訂單系統\作業_訂單系統\bin\Debug\作業_訂單系統.exe
+D:\網頁\資策會\作業_訂單系統\作業_訂單系統\bin\Debug\作業_訂單系統.pdb
+D:\網頁\資策會\作業_訂單系統\作業_訂單系統\obj\Debug\作業_訂單系統.csproj.AssemblyReference.cache
+D:\網頁\資策會\作業_訂單系統\作業_訂單系統\obj\Debug\作業_訂單系統.csproj.SuggestedBindingRedirects.cache
+D:\網頁\資策會\作業_訂單系統\作業_訂單系統\obj\Debug\作業_訂單系統.Form1.resources
+D:\網頁\資策會\作業_訂單系統\作業_訂單系統\obj\Debug\作業_訂單系統.Properties.Resources.resources
+D:\網頁\資策會\作業_訂單系統\作業_訂單系統\obj\Debug\作業_訂單系統.csproj.GenerateResource.cache
+D:\網頁\資策會\作業_訂單系統\作業_訂單系統\obj\Debug\作業_訂單系統.csproj.CoreCompileInputs.cache
+D:\網頁\資策會\作業_訂單系統\作業_訂單系統\obj\Debug\作業_訂單系統.exe
+D:\網頁\資策會\作業_訂單系統\作業_訂單系統\obj\Debug\作業_訂單系統.pdb
+D:\網頁\資策會\作業_訂單系統\作業_訂單系統\obj\Debug\作業_訂單系統.OrderList.resources
+D:\網頁\資策會\測試\作業_訂單系統\作業_訂單系統\bin\Debug\作業_訂單系統.exe.config
+D:\網頁\資策會\測試\作業_訂單系統\作業_訂單系統\bin\Debug\作業_訂單系統.exe
+D:\網頁\資策會\測試\作業_訂單系統\作業_訂單系統\bin\Debug\作業_訂單系統.pdb
+D:\網頁\資策會\測試\作業_訂單系統\作業_訂單系統\obj\Debug\作業_訂單系統.csproj.AssemblyReference.cache
+D:\網頁\資策會\測試\作業_訂單系統\作業_訂單系統\obj\Debug\作業_訂單系統.csproj.SuggestedBindingRedirects.cache
+D:\網頁\資策會\測試\作業_訂單系統\作業_訂單系統\obj\Debug\作業_訂單系統.Form1.resources
+D:\網頁\資策會\測試\作業_訂單系統\作業_訂單系統\obj\Debug\作業_訂單系統.Form_login.resources
+D:\網頁\資策會\測試\作業_訂單系統\作業_訂單系統\obj\Debug\作業_訂單系統.OrderList.resources
+D:\網頁\資策會\測試\作業_訂單系統\作業_訂單系統\obj\Debug\作業_訂單系統.Properties.Resources.resources
+D:\網頁\資策會\測試\作業_訂單系統\作業_訂單系統\obj\Debug\作業_訂單系統.csproj.GenerateResource.cache
+D:\網頁\資策會\測試\作業_訂單系統\作業_訂單系統\obj\Debug\作業_訂單系統.csproj.CoreCompileInputs.cache
+D:\網頁\資策會\測試\作業_訂單系統\作業_訂單系統\obj\Debug\作業_訂單系統.exe
+D:\網頁\資策會\測試\作業_訂單系統\作業_訂單系統\obj\Debug\作業_訂單系統.pdb
+D:\網頁\資策會\測試\作業_訂單系統\作業_訂單系統\obj\Debug\作業_訂單系統.Form_SignUp.resources
+D:\pigpai01\測試\作業_訂單系統_登入\作業_訂單系統\bin\Debug\作業_訂單系統.exe.config
+D:\pigpai01\測試\作業_訂單系統_登入\作業_訂單系統\bin\Debug\作業_訂單系統.exe
+D:\pigpai01\測試\作業_訂單系統_登入\作業_訂單系統\bin\Debug\作業_訂單系統.pdb
+D:\pigpai01\測試\作業_訂單系統_登入\作業_訂單系統\obj\Debug\作業_訂單系統.csproj.AssemblyReference.cache
+D:\pigpai01\測試\作業_訂單系統_登入\作業_訂單系統\obj\Debug\作業_訂單系統.csproj.SuggestedBindingRedirects.cache
+D:\pigpai01\測試\作業_訂單系統_登入\作業_訂單系統\obj\Debug\作業_訂單系統.Form1.resources
+D:\pigpai01\測試\作業_訂單系統_登入\作業_訂單系統\obj\Debug\作業_訂單系統.Form_login.resources
+D:\pigpai01\測試\作業_訂單系統_登入\作業_訂單系統\obj\Debug\作業_訂單系統.Form_SignUp.resources
+D:\pigpai01\測試\作業_訂單系統_登入\作業_訂單系統\obj\Debug\作業_訂單系統.OrderList.resources
+D:\pigpai01\測試\作業_訂單系統_登入\作業_訂單系統\obj\Debug\作業_訂單系統.Properties.Resources.resources
+D:\pigpai01\測試\作業_訂單系統_登入\作業_訂單系統\obj\Debug\作業_訂單系統.csproj.GenerateResource.cache
+D:\pigpai01\測試\作業_訂單系統_登入\作業_訂單系統\obj\Debug\作業_訂單系統.csproj.CoreCompileInputs.cache
+D:\pigpai01\測試\作業_訂單系統_登入\作業_訂單系統\obj\Debug\作業_訂單系統.exe
+D:\pigpai01\測試\作業_訂單系統_登入\作業_訂單系統\obj\Debug\作業_訂單系統.pdb
+D:\網頁\資策會\期中專題\作業_訂單系統_期中\作業_訂單系統\bin\Debug\作業_訂單系統.exe.config
+D:\網頁\資策會\期中專題\作業_訂單系統_期中\作業_訂單系統\bin\Debug\作業_訂單系統.exe
+D:\網頁\資策會\期中專題\作業_訂單系統_期中\作業_訂單系統\bin\Debug\作業_訂單系統.pdb
+D:\網頁\資策會\期中專題\作業_訂單系統_期中\作業_訂單系統\obj\Debug\作業_訂單系統.csproj.AssemblyReference.cache
+D:\網頁\資策會\期中專題\作業_訂單系統_期中\作業_訂單系統\obj\Debug\作業_訂單系統.csproj.SuggestedBindingRedirects.cache
+D:\網頁\資策會\期中專題\作業_訂單系統_期中\作業_訂單系統\obj\Debug\作業_訂單系統.Form1.resources
+D:\網頁\資策會\期中專題\作業_訂單系統_期中\作業_訂單系統\obj\Debug\作業_訂單系統.Form_login.resources
+D:\網頁\資策會\期中專題\作業_訂單系統_期中\作業_訂單系統\obj\Debug\作業_訂單系統.Form_SignUp.resources
+D:\網頁\資策會\期中專題\作業_訂單系統_期中\作業_訂單系統\obj\Debug\作業_訂單系統.Properties.Resources.resources
+D:\網頁\資策會\期中專題\作業_訂單系統_期中\作業_訂單系統\obj\Debug\作業_訂單系統.csproj.GenerateResource.cache
+D:\網頁\資策會\期中專題\作業_訂單系統_期中\作業_訂單系統\obj\Debug\作業_訂單系統.csproj.CoreCompileInputs.cache
+D:\網頁\資策會\期中專題\作業_訂單系統_期中\作業_訂單系統\obj\Debug\作業_訂單系統.exe
+D:\網頁\資策會\期中專題\作業_訂單系統_期中\作業_訂單系統\obj\Debug\作業_訂單系統.pdb
+D:\網頁\資策會\期中專題\作業_訂單系統_期中_備\作業_訂單系統\obj\Debug\作業_訂單系統.csproj.AssemblyReference.cache
+D:\網頁\資策會\期中專題\作業_訂單系統_期中_備\作業_訂單系統\obj\Debug\作業_訂單系統.csproj.SuggestedBindingRedirects.cache
+D:\網頁\資策會\期中專題\作業_訂單系統_期中_備\作業_訂單系統\obj\Debug\作業_訂單系統.Form1.resources
+D:\網頁\資策會\期中專題\作業_訂單系統_期中_備\作業_訂單系統\obj\Debug\作業_訂單系統.Form_login.resources
+D:\網頁\資策會\期中專題\作業_訂單系統_期中_備\作業_訂單系統\obj\Debug\作業_訂單系統.Form_SignUp.resources
+D:\網頁\資策會\期中專題\作業_訂單系統_期中_備\作業_訂單系統\obj\Debug\作業_訂單系統.OrderList.resources
+D:\網頁\資策會\期中專題\作業_訂單系統_期中_備\作業_訂單系統\obj\Debug\作業_訂單系統.Properties.Resources.resources
+D:\網頁\資策會\期中專題\作業_訂單系統_期中_備\作業_訂單系統\obj\Debug\作業_訂單系統.csproj.GenerateResource.cache
+D:\網頁\資策會\期中專題\作業_訂單系統_期中_備\作業_訂單系統\obj\Debug\作業_訂單系統.csproj.CoreCompileInputs.cache
+D:\網頁\資策會\期中專題\作業_訂單系統_期中_備\作業_訂單系統\obj\Debug\作業_訂單系統.exe
+D:\網頁\資策會\期中專題\作業_訂單系統_期中_備\作業_訂單系統\obj\Debug\作業_訂單系統.pdb
+D:\網頁\資策會\期中專題\作業_訂單系統_期中_備\作業_訂單系統\bin\Debug\作業_訂單系統.exe.config
+D:\網頁\資策會\期中專題\作業_訂單系統_期中_備\作業_訂單系統\bin\Debug\作業_訂單系統.exe
+D:\網頁\資策會\期中專題\作業_訂單系統_期中_備\作業_訂單系統\bin\Debug\作業_訂單系統.pdb
+D:\pigpai01\期中專題\作業_訂單系統_期中_備 - 複製\作業_訂單系統\obj\Debug\作業_訂單系統.csproj.AssemblyReference.cache
+D:\pigpai01\期中專題\作業_訂單系統_期中_備 - 複製\作業_訂單系統\obj\Debug\作業_訂單系統.csproj.SuggestedBindingRedirects.cache
+D:\pigpai01\期中專題\作業_訂單系統_期中_備 - 複製\作業_訂單系統\obj\Debug\作業_訂單系統.Form1.resources
+D:\pigpai01\期中專題\作業_訂單系統_期中_備 - 複製\作業_訂單系統\obj\Debug\作業_訂單系統.Form_login.resources
+D:\pigpai01\期中專題\作業_訂單系統_期中_備 - 複製\作業_訂單系統\obj\Debug\作業_訂單系統.Form_SignUp.resources
+D:\pigpai01\期中專題\作業_訂單系統_期中_備 - 複製\作業_訂單系統\obj\Debug\作業_訂單系統.Properties.Resources.resources
+D:\pigpai01\期中專題\作業_訂單系統_期中_備 - 複製\作業_訂單系統\obj\Debug\作業_訂單系統.csproj.GenerateResource.cache
+D:\pigpai01\期中專題\作業_訂單系統_期中_備 - 複製\作業_訂單系統\obj\Debug\作業_訂單系統.csproj.CoreCompileInputs.cache
+D:\pigpai01\期中專題\作業_訂單系統_期中_備 - 複製\作業_訂單系統\obj\Debug\作業_訂單系統.exe
+D:\pigpai01\期中專題\作業_訂單系統_期中_備 - 複製\作業_訂單系統\obj\Debug\作業_訂單系統.pdb
+D:\pigpai01\期中專題\作業_訂單系統_期中_備 - 複製\作業_訂單系統\bin\Debug\作業_訂單系統.exe.config
+D:\pigpai01\期中專題\作業_訂單系統_期中_備 - 複製\作業_訂單系統\bin\Debug\作業_訂單系統.exe
+D:\pigpai01\期中專題\作業_訂單系統_期中_備 - 複製\作業_訂單系統\bin\Debug\作業_訂單系統.pdb
+D:\pigpai01\期中專題\作業_訂單系統_期中_備 - 複製\作業_訂單系統\obj\Debug\作業_訂單系統.OrderDtails.resources
+D:\pigpai01\期中專題\作業_訂單系統_期中_備 - 複製\作業_訂單系統\obj\Debug\作業_訂單系統.Form_ShopCart.resources
+D:\pigpai01\期中專題\作業_訂單系統_期中\作業_訂單系統\bin\Debug\作業_訂單系統.exe.config
+D:\pigpai01\期中專題\作業_訂單系統_期中\作業_訂單系統\bin\Debug\作業_訂單系統.exe
+D:\pigpai01\期中專題\作業_訂單系統_期中\作業_訂單系統\bin\Debug\作業_訂單系統.pdb
+D:\pigpai01\期中專題\作業_訂單系統_期中\作業_訂單系統\obj\Debug\作業_訂單系統.csproj.AssemblyReference.cache
+D:\pigpai01\期中專題\作業_訂單系統_期中\作業_訂單系統\obj\Debug\作業_訂單系統.csproj.SuggestedBindingRedirects.cache
+D:\pigpai01\期中專題\作業_訂單系統_期中\作業_訂單系統\obj\Debug\作業_訂單系統.Form1.resources
+D:\pigpai01\期中專題\作業_訂單系統_期中\作業_訂單系統\obj\Debug\作業_訂單系統.Form_login.resources
+D:\pigpai01\期中專題\作業_訂單系統_期中\作業_訂單系統\obj\Debug\作業_訂單系統.Form_ShopCart.resources
+D:\pigpai01\期中專題\作業_訂單系統_期中\作業_訂單系統\obj\Debug\作業_訂單系統.Form_SignUp.resources
+D:\pigpai01\期中專題\作業_訂單系統_期中\作業_訂單系統\obj\Debug\作業_訂單系統.OrderDtails.resources
+D:\pigpai01\期中專題\作業_訂單系統_期中\作業_訂單系統\obj\Debug\作業_訂單系統.Properties.Resources.resources
+D:\pigpai01\期中專題\作業_訂單系統_期中\作業_訂單系統\obj\Debug\作業_訂單系統.csproj.GenerateResource.cache
+D:\pigpai01\期中專題\作業_訂單系統_期中\作業_訂單系統\obj\Debug\作業_訂單系統.csproj.CoreCompileInputs.cache
+D:\pigpai01\期中專題\作業_訂單系統_期中\作業_訂單系統\obj\Debug\作業_訂單系統.exe
+D:\pigpai01\期中專題\作業_訂單系統_期中\作業_訂單系統\obj\Debug\作業_訂單系統.pdb
+D:\網頁\資策會\期中專題\作業_訂單系統_期中\作業_訂單系統\obj\Debug\作業_訂單系統.Form_ShopCart.resources
+D:\網頁\資策會\期中專題\作業_訂單系統_期中\作業_訂單系統\obj\Debug\作業_訂單系統.OrderDtails.resources
+D:\網頁\資策會\期中專題\作業_訂單系統_期中\作業_訂單系統\obj\Debug\作業_訂單系統.Form_Member.resources
+D:\網頁\資策會\期中專題\作業_訂單系統_期中\作業_訂單系統\obj\Debug\作業_訂單系統.Form_OrderList.resources
+D:\網頁\資策會\期中專題\作業_訂單系統_期中\作業_訂單系統\obj\Debug\作業_訂單系統.Form_Products.resources
+D:\網頁\資策會\期中專題\作業_訂單系統_期中\作業_訂單系統\obj\Debug\作業_訂單系統.Form_ProductDtails.resources
+D:\pigpai01\期中專題\作業_訂單系統_期中\作業_訂單系統\obj\Debug\作業_訂單系統.Form_Member.resources
+D:\pigpai01\期中專題\作業_訂單系統_期中\作業_訂單系統\obj\Debug\作業_訂單系統.Form_OrderList.resources
+D:\pigpai01\期中專題\作業_訂單系統_期中\作業_訂單系統\obj\Debug\作業_訂單系統.Form_ProductDtails.resources
+D:\pigpai01\期中專題\作業_訂單系統_期中\作業_訂單系統\obj\Debug\作業_訂單系統.Form_Products.resources
+C:\Users\pigpa\Desktop\MyProject\期中專題\作業_訂單系統\bin\Debug\作業_訂單系統.exe.config
+C:\Users\pigpa\Desktop\MyProject\期中專題\作業_訂單系統\bin\Debug\作業_訂單系統.exe
+C:\Users\pigpa\Desktop\MyProject\期中專題\作業_訂單系統\bin\Debug\作業_訂單系統.pdb
+C:\Users\pigpa\Desktop\MyProject\期中專題\作業_訂單系統\obj\Debug\作業_訂單系統.csproj.AssemblyReference.cache
+C:\Users\pigpa\Desktop\MyProject\期中專題\作業_訂單系統\obj\Debug\作業_訂單系統.csproj.SuggestedBindingRedirects.cache
+C:\Users\pigpa\Desktop\MyProject\期中專題\作業_訂單系統\obj\Debug\作業_訂單系統.Form1.resources
+C:\Users\pigpa\Desktop\MyProject\期中專題\作業_訂單系統\obj\Debug\作業_訂單系統.Form_login.resources
+C:\Users\pigpa\Desktop\MyProject\期中專題\作業_訂單系統\obj\Debug\作業_訂單系統.Form_Member.resources
+C:\Users\pigpa\Desktop\MyProject\期中專題\作業_訂單系統\obj\Debug\作業_訂單系統.Form_OrderList.resources
+C:\Users\pigpa\Desktop\MyProject\期中專題\作業_訂單系統\obj\Debug\作業_訂單系統.Form_ProductDtails.resources
+C:\Users\pigpa\Desktop\MyProject\期中專題\作業_訂單系統\obj\Debug\作業_訂單系統.Form_Products.resources
+C:\Users\pigpa\Desktop\MyProject\期中專題\作業_訂單系統\obj\Debug\作業_訂單系統.Form_ShopCart.resources
+C:\Users\pigpa\Desktop\MyProject\期中專題\作業_訂單系統\obj\Debug\作業_訂單系統.Form_SignUp.resources
+C:\Users\pigpa\Desktop\MyProject\期中專題\作業_訂單系統\obj\Debug\作業_訂單系統.OrderDtails.resources
+C:\Users\pigpa\Desktop\MyProject\期中專題\作業_訂單系統\obj\Debug\作業_訂單系統.Properties.Resources.resources
+C:\Users\pigpa\Desktop\MyProject\期中專題\作業_訂單系統\obj\Debug\作業_訂單系統.csproj.GenerateResource.cache
+C:\Users\pigpa\Desktop\MyProject\期中專題\作業_訂單系統\obj\Debug\作業_訂單系統.csproj.CoreCompileInputs.cache
+C:\Users\pigpa\Desktop\MyProject\期中專題\作業_訂單系統\obj\Debug\作業_訂單系統.exe
+C:\Users\pigpa\Desktop\MyProject\期中專題\作業_訂單系統\obj\Debug\作業_訂單系統.pdb

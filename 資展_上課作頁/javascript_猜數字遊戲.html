@@ -1,0 +1,341 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU" crossorigin="anonymous">
+
+
+    <style>
+        .container {
+            border: 1px solid black;
+            border-radius: 10px;
+            width: 80%;
+            margin: 10% auto;
+            text-align: center;
+            padding: 20px;
+            position: relative;
+        }
+
+        .box {
+            margin: 10px auto;
+        }
+
+        .QAbox {
+            box-shadow: 1em;
+            font-size: 0.7em;
+            margin: 10px;
+            text-align: center;
+        }
+
+        h1 {
+            margin: 20px;
+        }
+
+        input {
+            margin: 5px 40px;
+            text-align: center;
+            justify-content: space-between;
+            font-size: large;
+        }
+
+        p {
+            font-size: 2em;
+        }
+
+        .btnLock {
+            margin: 5px 10px;
+        }
+
+        .Rnums {
+            margin-left: 2em;
+        }
+    </style>
+
+</head>
+
+<body onload="Random()">
+
+    <div class="container">
+        <!-- 導覽列 -->
+        <nav class="navbar navbar-expand-lg navbar-light">
+
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
+                aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <i class="fas fa-bars" style="color:  var(--text-color);"></i>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+
+                <i class="fa-solid fa-circle-info" style="font-size: 3em"></i>
+
+                <ul class="navbar-nav">
+                    <li class="nav-item">
+
+                        <button type="button" class="btn btn-warning btn-lg" style="margin:5px 10px;"
+                            data-toggle="modal" data-target="#exampleModal">
+                            規則說明
+                        </button>
+
+                        <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel"
+                            aria-hidden="true">
+                            <div class="modal-dialog">
+                                <div class="modal-content">
+                                    <div class="modal-header">
+                                        <h5 class="modal-title" id="exampleModalLabel">規則說明</h5>
+                                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                            <span aria-hidden="true">&times;</span>
+                                        </button>
+                                    </div>
+                                    <div class="modal-body">
+                                        請輸入五個 0 ~ 9 數字。
+                                    </div>
+                                    <div class="modal-footer">
+                                        <button type="button" class="btn btn-secondary"
+                                            data-dismiss="modal">Close</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="nav-item">
+                        <button type="button" onclick="clean()" class="btn btn-warning btn-lg btnReset"
+                            style="margin:5px 10px;">重啟遊戲</button>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+
+        <h1>猜數字遊戲</h1>
+
+        <!-- 輸入的數字 -->
+        <div class=" box">
+            <input type="text" class="num" size="5" name="" id="input1" maxlength="1" oninput="nCheck(this)"
+                onfocus="afocus(this)" onblur="ablur(this)" onkeyup="numcheck(this.id,this)">
+            <input type="text" class="num" size="5" name="" id="input2" maxlength="1" oninput="nCheck(this)"
+                onfocus="afocus(this)" onblur="ablur(this)" onkeyup="numcheck(this.id,this)">
+            <input type="text" class="num" size="5" name="" id="input3" maxlength="1" oninput="nCheck(this)"
+                onfocus="afocus(this)" onblur="ablur(this)" onkeyup="numcheck(this.id,this)">
+            <input type="text" class="num" size="5" name="" id="input4" maxlength="1" oninput="nCheck(this)"
+                onfocus="afocus(this)" onblur="ablur(this)" onkeyup="numcheck(this.id,this)">
+            <input type="text" class="num" size="5" name="" id="input5" maxlength="1" oninput="nCheck(this)"
+                onfocus="afocus(this)" onblur="ablur(this)" onkeyup="numcheck(this.id,this)">
+        </div>
+
+        <div class="btnbar">
+            <button type="button" onclick="inputNums()" class="btn btn-outline-secondary btnLock">送出數字</button>
+            <button type="button" onclick="CheckNums()" class="btn btn-outline-danger btnCheck"
+                disabled="true">檢視猜測結果</button>
+        </div>
+
+        <!-- 比對結果 -->
+        <div class="shadow p-3 mb-5 bg-body rounded QAbox">
+
+            <!-- 訊息框 -->
+
+        </div>
+
+        <!-- 隨機數字 -->
+        <div class="accordion" id="accordionExample">
+            <div class="card">
+                <div class="card-header" id="headingOne">
+
+                    <h2 class="mb-0">
+                        <button onclick="" class="btn btn-block " type="button" data-toggle="collapse"
+                            data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                            <i class="fa-regular fa-hand-pointer"></i>
+                            莊家的數字
+                        </button>
+                    </h2>
+
+                </div>
+
+                <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
+                    <div class="card-body RanNums">
+
+                        <!-- 莊家數字 -->
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <script>
+            var myNums = [];
+            var RandomNums = [];
+            var FNums = [];
+
+
+            //TODO 隨機數字
+            function Random() {
+
+                for (i = 0; i < 5; i++) {
+                    RandomNums[i] = Math.floor(Math.random() * 9)
+                    for (j = 0; j < i; j++) {
+                        while (RandomNums[j] == RandomNums[i]) {
+                            j = 0;
+                            RandomNums[i] = Math.floor(Math.random() * 9)
+                        }
+                    }
+                }
+
+                RandomNums.sort(function (a, b) {
+                    if (a > b) return 1;
+                    if (a < b) return -1;
+                    return 0;
+                });
+
+                document.querySelector('.RanNums').innerHTML = `<p>${RandomNums}</p>`;
+            }
+
+            //TODO 檢查是否為數字
+            function numcheck(id, num) {
+                var re = /^[0-9]+$/;
+                if (!re.test(num.value)) {
+                    alert("只能輸入數字");
+                    document.getElementById(id).value = "";
+                }
+            }
+
+            //TODO 檢查號碼有無重複
+            function afocus(e) {
+                e.setAttribute("class", "selected")
+            }
+
+            function ablur(e) {
+                e.setAttribute("class", "num")
+            }
+
+            function nCheck(e) {
+                var cNum = document.querySelectorAll('.num');
+                cNum.forEach(function (cN) {
+                    if (cN.value == e.value && e.value != "") {
+                        alert(`${e.value} 數字已重復!!`);
+                        e.value = "";
+                    }
+                })
+            }
+
+            // TODO送出數字
+            function inputNums() {
+
+                let input1 = document.querySelector('#input1').value;
+                let input2 = document.querySelector('#input2').value;
+                let input3 = document.querySelector('#input3').value;
+                let input4 = document.querySelector('#input4').value;
+                let input5 = document.querySelector('#input5').value;
+
+                if (input1 != "" && input2 != "" && input3 != "" && input4 != "" && input5 != "") {
+                    let input = document.querySelectorAll('.num');
+                    for (let i = 0; i < 5; i++) {
+                        let Nums = parseInt(input[i].value);
+                        myNums.push(Nums);
+                    }
+
+                    myNums.sort(function (a, b) {
+                        if (a > b) return 1;
+                        if (a < b) return -1;
+                        return 0;
+                    });
+
+                    document.querySelector('.QAbox').innerHTML = `<p>您的數字為: ${myNums}</p>`;
+                    !$(document).ready(function () {
+                        $(".btnCheck").removeAttr('disabled');
+                        $(".btnLock").attr('disabled', 'true');
+                        $(input).attr("disabled", "true");
+                    });
+
+                }
+                else {
+                    alert('請輸入數字');
+                }
+            };
+
+            //TODO 對獎
+            function CheckNums() {
+                var input = document.querySelectorAll('.num');
+                let b = 0;
+                let str = "";
+
+                let input1 = document.querySelector('#input1').value;
+                let input2 = document.querySelector('#input2').value;
+                let input3 = document.querySelector('#input3').value;
+                let input4 = document.querySelector('#input4').value;
+                let input5 = document.querySelector('#input5').value;
+
+                if (input1 != "" && input2 != "" && input3 != "" && input4 != "" && input5 != "") {
+                    for (i = 0; i < RandomNums.length; i++) {
+                        for (j = 0; j < RandomNums.length; j++) {
+                            if (RandomNums[i] == myNums[j]) {
+                                FNums[b] = myNums[j];
+                                let content = `${FNums[b]} `;
+                                str += content;
+                            }
+                        }
+                    }
+
+                    if (str.length == 10) {
+                        document.querySelector('.QAbox').innerHTML = `<p>您的數字為: ${myNums}</p><p style="color:red;">恭喜全中，不用努力惹</p>`;
+                    }
+                    else {
+                        document.querySelector('.QAbox').innerHTML = `<p>您的數字為: ${myNums}</p><p style="color:red;">中獎的數字為: ${str}</p>`;
+                    }
+
+                    document.querySelector('#input1').value = "";
+                    document.querySelector('#input2').value = "";
+                    document.querySelector('#input3').value = "";
+                    document.querySelector('#input4').value = "";
+                    document.querySelector('#input5').value = "";
+                    myNums = [];
+
+                    !$(document).ready(function () {
+                        $(".btnCheck").attr("disabled", "true");
+                        $(".btnLock").removeAttr("disabled");
+                        $(input).removeAttr('disabled');
+                    });
+                }
+                else {
+                    alert('請輸入數字');
+                }
+            };
+
+            function clean() {
+
+                var input = document.querySelectorAll('.num');
+
+                document.querySelector('#input1').value = "";
+                document.querySelector('#input2').value = "";
+                document.querySelector('#input3').value = "";
+                document.querySelector('#input4').value = "";
+                document.querySelector('#input5').value = "";
+
+
+                document.querySelector('.QAbox').innerHTML = "";
+
+                !$(document).ready(function () {
+                    $(".btnCheck").attr("disabled", "true");
+                    $(input).removeAttr('disabled');
+                });
+
+                myNums = [];
+                FNums = [];
+
+                Random();
+            };
+
+        </script>
+
+        <script src="https://kit.fontawesome.com/5fe83c298f.js" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js"
+            integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
+            crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js"
+            integrity="sha384-Fy6S3B9q64WdZWQUiU+q4/2Lc9npb8tCaSX9FK7E8HnRr0Jz8D6OP9dO5Vg3Q9ct"
+            crossorigin="anonymous"></script>
+</body>
+
+</html>
