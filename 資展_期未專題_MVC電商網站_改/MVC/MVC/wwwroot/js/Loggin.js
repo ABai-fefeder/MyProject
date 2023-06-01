@@ -4,17 +4,23 @@ var password = document.getElementById("password");     //密碼輸入欄位
 var webApiBaseUrl = "https://localhost:7096/"
 forgotBtn = document.getElementById("forgotBtn");
 
-// 登入開啟 Modal
+// 載入網頁
 $(window).ready(() => {
+    // 開啟登入 modal
+    // if (sessionStorage.getItem("MemberID") == null) {
+    //     $('#loginModal').modal('show');
+    // } else {
+    //     $('#Modal-close').removeAttr('disabled');
+    // }
     if (sessionStorage.getItem("MemberID") == null) {
-        $('#loginModal').modal('show');
+        $('#MemberInfo').hide();
     } else {
-        $('#Modal-close').removeAttr('disabled');
-        //$('#Modal-close').removeAttr('data-bs-keyboard');
+        $('#MemberInfo').show();
     }
 })
 
 logginBtn.addEventListener("click", function () {       //為登入按鈕加入事件聆聽
+
     axios.get(`${webApiBaseUrl}api/Member`).then(a => {
         let b = a.data;
         var isMem = false;
